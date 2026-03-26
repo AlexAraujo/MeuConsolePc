@@ -1,6 +1,7 @@
 # 🎮 PC Console Mode Automation v1.0
 
-Este projeto automatiza a transição de um Desktop de trabalho (Angular/SQL Developer) para um modo Console em uma TV TCL 4K, utilizando uma RTX 5070 Ti e um controle 8BitDo.
+Este projeto automatiza a transição de um Desktop para um modo Console em uma TV TCL 4K, utilizando uma RTX 5070 Ti e um controle 8BitDo.
+Obs: vc pode utilizar outras configurações de TV, Controle e GPU
 
 ## 🛠️ Requisitos
 * [MultiMonitorTool](https://www.nirsoft.net/utils/multi_monitor_tool.html) - Gestão de monitores via CLI.
